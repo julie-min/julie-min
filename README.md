@@ -7,7 +7,7 @@
 <h3 align="center">👋 Greetings, my name is Julie! 👋</h3>
 <p align="center">
   <b>🧠 Backend Developer</b> <br>
-  <b>🌱 Majoring in computer science</b><br>
+  <b>🌱 Majoring in Computer Science 💻</b><br>
   <b>💡 Interested in Technology & Marketing<br>
   <b>🕺Continuously learn, grow, and live life to the fullest.
 </p>
