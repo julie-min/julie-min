@@ -8,7 +8,7 @@
 <p align="center">
   <b>🧠 Backend Developer</b> <br>
   <b>🌱 Majoring in Computer Science 💻</b><br>
-  <b>💡 Interested in Technology & Data Marketing<br>
+  <b>💡 Interested in Technology & Data Science <br>
   <b>🕺Continuously learn, grow, and live life to the fullest.
 </p>
 
