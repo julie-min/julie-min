@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
   <br>  
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 <h3 align="center">🌷 Follow Me 🌷</h3>
