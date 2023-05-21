@@ -4,7 +4,7 @@
 )
 
 
-<h3 align="center">🐎 Howdy, y'all! I'm Julie!🐎</h3>
+<h3 align="center"> Greetings! I'm Julie!</h3>
 <p align="center">
   <b>🧠 Backend Developer</b> <br>
   <b>🌱 Majoring in Computer Science 💻</b><br>
