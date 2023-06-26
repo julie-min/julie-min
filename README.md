@@ -15,11 +15,12 @@
 <h3 align="center">🚀 Tech Stack 🚀</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0099E5?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <br>  
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
@@ -33,6 +34,10 @@
   <a href="mailto:jiyun3664@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFCD00?style=flat-square&logo=Gmail&logoColor=white&link=jiyun3664@gmail.com"/></a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie-min&layout=compact" alt="Top Languages" />
+</p>
+
 <h3 align="center">🦄 My Github Stats 🦄</h3>
 <div align="center">
  
@@ -42,7 +47,4 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjulie-min&count_bg=%2363D1E9&title_bg=%23BDBFBD&icon=apachespark.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie-min&layout=compact" alt="Top Languages" />
-</p>
 
