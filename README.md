@@ -42,9 +42,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjulie-min&count_bg=%2363D1E9&title_bg=%23BDBFBD&icon=apachespark.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julie-min&layout=compact)](https://github.com/julie-min/github-readme-stats)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie-min&layout=compact" alt="Top Languages" />
 </p>
