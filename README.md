@@ -44,3 +44,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julie-min&layout=compact)](https://github.com/julie-min/github-readme-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie-min&layout=compact" alt="Top Languages" />
+</p>
+
