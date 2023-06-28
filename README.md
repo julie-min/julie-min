@@ -1,10 +1,5 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
- -->
-![github header](https://user-images.githubusercontent.com/130271406/230815311-a0f7eba2-e2ac-443b-99eb-4d9abbdd0d56.jpg
-)
 
-
-<h3 align="center"> Greetings! I'm Julie!</h3>
+<h3 align="center"> Greetings! I'm Julie :)  </h3>
 <p align="center">
   <b>🧠 Backend Developer</b> <br>
   <b>🌱 Majoring in Computer Science 💻</b><br>
