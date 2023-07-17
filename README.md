@@ -1,10 +1,8 @@
 
 <h3 align="center"> Greetings! I'm Julie :)  </h3>
 <p align="center">
-  <b>🧠 Backend Developer</b> <br>
-  <b>🌱 Majoring in Computer Science 💻</b><br>
+  <b>🧠 A Backend Developer</b> <br>
   <b>💡 Interested in Technology & Data Science <br>
-  <b>🕺Continuously learn, grow, and live life to the fullest.
 </p>
 
 <h3 align="center">🚀 Tech Stack 🚀</h3>
