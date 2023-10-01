@@ -7,7 +7,7 @@
 
 <h3 align="center">🚀 Tech Stack 🚀</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-0099E5?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <br>
