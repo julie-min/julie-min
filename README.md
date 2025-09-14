@@ -1,7 +1,7 @@
 
 <h3 align="center"> Greetings! I'm Julie :)  </h3>
 <p align="center">
-  <b>🧠 Backend Developer</b> <br>
+  <b>🧠 Fullstack Developer</b> <br>
   <b>💡 Interested in Technology & Data Science <br>
   <b>🌐 <a href="https://www.juliemin.site" target="_blank">www.juliemin.site</a></b>
 </p>
